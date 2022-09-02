@@ -6,7 +6,7 @@
 
 - [Repo](https://github.com/lisaericksoncoding/02-Challenge "02-Challenge Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Live](https://lisaericksoncoding.github.io/02-Challenge/ )"Live View")
 
 ## Built With
 
